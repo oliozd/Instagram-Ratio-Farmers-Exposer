@@ -5,7 +5,7 @@ How to run:
 2. Make sure your Instagram account is set to Business Account
 3. Accounts Centre -> Your information and permissions -> Export your information -> Create Export -> Select Account -> Export(to a device of your choosing)
 4. IMPORTANT: Customise download to only include "Followers and Following" information. Select "All time" for date range.
-5. Wait for the information to be sent and then unzip the file into the InstaCleaner/data/ directory.
+5. Wait for the information to be sent and then unzip the file into the data/ directory in the project folder.
 6. Run the script from your command line. Run the "__main__.py" file
 
 
